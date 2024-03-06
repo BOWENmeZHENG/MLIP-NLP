@@ -2,5 +2,5 @@
 
 # ./github.sh to push to GitHub
 git status
-git commit -a -m "ner scratch over"
+git commit -a -m "train ner"
 git push -u origin main
